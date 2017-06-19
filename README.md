@@ -1,4 +1,4 @@
-# 1052Visualized_Hw1
+# 1052Visualized_Hw1_HeatMap
 1052 Visualized Hw1-1 Heat Map
 建議使用firefox 開啟
 chorme 和 IE 無法載入 csv檔案
